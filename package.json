@@ -1,5 +1,5 @@
 {
-	"name": "test_project",
+	"name": "imgpress-example",
 	"version": "1.0.0",
 	"description": "",
 	"type": "module",
@@ -11,6 +11,6 @@
 	"author": "",
 	"license": "ISC",
 	"dependencies": {
-		"imgpress": "^0.0.11"
+		"imgpress": "^1.0.0"
 	}
 }
