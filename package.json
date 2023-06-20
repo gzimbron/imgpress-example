@@ -11,6 +11,6 @@
 	"author": "",
 	"license": "ISC",
 	"dependencies": {
-		"imgpress": "^1.0.0"
+		"imgpress": "^1.0.1"
 	}
 }
